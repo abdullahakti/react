@@ -1,0 +1,30 @@
+/* Navbar.css */
+
+.container {
+  width: 100%;
+  background-color: #f2f2f2; /* Açık renk */
+}
+.navbar-container {
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 20px;
+}
+
+.logo img {
+  height: 25px; /* Logo yüksekliği */
+}
+
+.links a {
+  color: black; /* Yazı rengi */
+  text-decoration: none;
+  margin-left: 20px;
+  font-family: "Montserrat", sans-serif; /* Montserrat fontu */
+  transition: color 0.3s ease; /* Yazı rengi değişim efekti */
+}
+
+.links a:hover {
+  color: #2ecc71; /* Hover rengi */
+}

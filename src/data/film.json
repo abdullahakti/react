@@ -1,0 +1,236 @@
+{
+  "filmler": [
+    {
+      "isim": "Matrix",
+      "isimTurkce": "Matrix",
+      "slogan": "Gerçek asla ne olduğunu bilemezsiniz.",
+      "kategori": "Bilim Kurgu",
+      "yonetmen": "Lana ve Lilly Wachowski",
+      "imgSrc": "/src/data/img/matrix.jpg"
+    },
+    {
+      "isim": "The Shawshank Redemption",
+      "isimTurkce": "Esaretin Bedeli",
+      "slogan": "Umut eninde sonunda özgürlüğe giden yoldur.",
+      "kategori": "Drama",
+      "yonetmen": "Frank Darabont",
+      "imgSrc": "/src/data/img/shawshank-redemption.jpg"
+    },
+    {
+      "isim": "Inception",
+      "isimTurkce": "Başlangıç",
+      "slogan": "Gerçeklik bir tercih meselesidir.",
+      "kategori": "Bilim Kurgu",
+      "yonetmen": "Christopher Nolan",
+      "imgSrc": "/src/data/img/inception.jpg"
+    },
+    {
+      "isim": "Pulp Fiction",
+      "isimTurkce": "Ucuz Roman",
+      "slogan": "Hayatı daha fazla özgür yaşa.",
+      "kategori": "Suç",
+      "yonetmen": "Quentin Tarantino",
+      "imgSrc": "/src/data/img/pulp-fiction.jpg"
+    },
+    {
+      "isim": "The Dark Knight",
+      "isimTurkce": "Kara Şövalye",
+      "slogan": "Karanlık şehirde adalet arayışı.",
+      "kategori": "Aksiyon",
+      "yonetmen": "Christopher Nolan",
+      "imgSrc": "/src/data/img/dark-knight.jpg"
+    },
+    {
+      "isim": "Forrest Gump",
+      "isimTurkce": "Forrest Gump",
+      "slogan": "Hayat bir kutu çikolatadır.",
+      "kategori": "Drama",
+      "yonetmen": "Robert Zemeckis",
+      "imgSrc": "/src/data/img/forrest-gump.jpg"
+    },
+    {
+      "isim": "Fight Club",
+      "isimTurkce": "Dövüş Kulübü",
+      "slogan": "İlk kural hakkında konuşma.",
+      "kategori": "Drama",
+      "yonetmen": "David Fincher",
+      "imgSrc": "/src/data/img/fight-club.jpg"
+    },
+    {
+      "isim": "The Godfather",
+      "isimTurkce": "Baba",
+      "slogan": "Aile her şeydir.",
+      "kategori": "Suç",
+      "yonetmen": "Francis Ford Coppola",
+      "imgSrc": "/src/data/img/godfather.jpg"
+    },
+    {
+      "isim": "Titanic",
+      "isimTurkce": "Titanik",
+      "slogan": "Aşk buzda erir.",
+      "kategori": "Romantik",
+      "yonetmen": "James Cameron",
+      "imgSrc": "/src/data/img/titanic.jpg"
+    },
+    {
+      "isim": "Avatar",
+      "isimTurkce": "Avatar",
+      "slogan": "Bağlan. Dönüş. Kurtul.",
+      "kategori": "Bilim Kurgu",
+      "yonetmen": "James Cameron",
+      "imgSrc": "/src/data/img/avatar.webp"
+    },
+    {
+      "isim": "The Silence of the Lambs",
+      "isimTurkce": "Kuzuların Sessizliği",
+      "slogan": "Şeytan ayrıntılarda gizlidir.",
+      "kategori": "Suç",
+      "yonetmen": "Jonathan Demme",
+      "imgSrc": "/src/data/img/silence-of-the-lambs.jpg"
+    },
+    {
+      "isim": "The Lord of the Rings: The Fellowship of the Ring",
+      "isimTurkce": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+      "slogan": "Bir yüzük, hepsini yönlendirecek.",
+      "kategori": "Fantastik",
+      "yonetmen": "Peter Jackson",
+      "imgSrc": "/src/data/img/lord-of-the-rings.jpg"
+    },
+    {
+      "isim": "The Shining",
+      "isimTurkce": "Parlaklık",
+      "slogan": "Herkes çılgına dönebilir.",
+      "kategori": "Korku",
+      "yonetmen": "Stanley Kubrick",
+      "imgSrc": "/src/data/img/the-shining.jpg"
+    },
+    {
+      "isim": "The Social Network",
+      "isimTurkce": "Sosyal Ağ",
+      "slogan": "Arkadaşlık, ihanet ve milyarlarca dolar.",
+      "kategori": "Drama",
+      "yonetmen": "David Fincher",
+      "imgSrc": "/src/data/img/social-network.webp"
+    },
+    {
+      "isim": "The Great Gatsby",
+      "isimTurkce": "Muhteşem Gatsby",
+      "slogan": "Büyük Amerikan Rüyası.",
+      "kategori": "Drama",
+      "yonetmen": "Baz Luhrmann",
+      "imgSrc": "/src/data/img/great-gatsby.jpg"
+    },
+    {
+      "isim": "Casablanca",
+      "isimTurkce": "Casablanca",
+      "slogan": "Herhangi bir barda bulabileceğin aşk değil.",
+      "kategori": "Drama",
+      "yonetmen": "Michael Curtiz",
+      "imgSrc": "/src/data/img/casablanca.jpg"
+    },
+    {
+      "isim": "Eternal Sunshine of the Spotless Mind",
+      "isimTurkce": "Sil Baştan",
+      "slogan": "Unutulmuş bir aşk hikayesi.",
+      "kategori": "Romantik",
+      "yonetmen": "Michel Gondry",
+      "imgSrc": "/src/data/img/eternal-sunshine.jpg"
+    },
+    {
+      "isim": "The Departed",
+      "isimTurkce": "Departed",
+      "slogan": "İki tarafta olmak, tehlikeli bir yerdir.",
+      "kategori": "Suç",
+      "yonetmen": "Martin Scorsese",
+      "imgSrc": "/src/data/img/the-departed.jpg"
+    },
+    {
+      "isim": "Inglourious Basterds",
+      "isimTurkce": "Soysuzlar Çetesi",
+      "slogan": "Nazileri avlamak.",
+      "kategori": "Savaş",
+      "yonetmen": "Quentin Tarantino",
+      "imgSrc": "/src/data/img/inglourious-basterds.jpg"
+    },
+    {
+      "isim": "Schindler's List",
+      "isimTurkce": "Schindler'in Listesi",
+      "slogan": "Hayatları kurtarmak için tek bir adam.",
+      "kategori": "Drama",
+      "yonetmen": "Steven Spielberg",
+      "imgSrc": "/src/data/img/schindlers-list.webp"
+    },
+    {
+      "isim": "The Revenant",
+      "isimTurkce": "Diriliş",
+      "slogan": "Hayatta kalmak için her şeyi yap.",
+      "kategori": "Macera",
+      "yonetmen": "Alejandro G. Iñárritu",
+      "imgSrc": "/src/data/img/revenant.jpg"
+    },
+    {
+      "isim": "Interstellar",
+      "isimTurkce": "Yıldızlararası",
+      "slogan": "Yıldızlar arasında bir yolculuk.",
+      "kategori": "Bilim Kurgu",
+      "yonetmen": "Christopher Nolan",
+      "imgSrc": "/src/data/img/interstellar.jpg"
+    },
+    {
+      "isim": "The Matrix Reloaded",
+      "isimTurkce": "Matrix Yeniden Yükleniyor",
+      "slogan": "Gerçeği öğrenmek için hazır mısın?",
+      "kategori": "Bilim Kurgu",
+      "yonetmen": "Lana ve Lilly Wachowski",
+      "imgSrc": "/src/data/img/matrix.jpg"
+    },
+    {
+      "isim": "Memento",
+      "isimTurkce": "Memento",
+      "slogan": "Geçmişi hatırla, geleceği unutma.",
+      "kategori": "Drama",
+      "yonetmen": "Christopher Nolan",
+      "imgSrc": "/src/data/img/memento.jpg"
+    },
+    {
+      "isim": "The Grand Budapest Hotel",
+      "isimTurkce": "Büyük Budapeşte Oteli",
+      "slogan": "Bir oteldeki harika macera.",
+      "kategori": "Komedi",
+      "yonetmen": "Wes Anderson",
+      "imgSrc": "/src/data/img/grand-budapest-hotel.webp"
+    },
+    {
+      "isim": "Amélie",
+      "isimTurkce": "Amélie",
+      "slogan": "Küçük zevkler büyük mutluluklar getirir.",
+      "kategori": "Romantik",
+      "yonetmen": "Jean-Pierre Jeunet",
+      "imgSrc": "/src/data/img/amelie.webp"
+    },
+    {
+      "isim": "Jurassic Park",
+      "isimTurkce": "Jurassic Park",
+      "slogan": "Dinozorların geri dönüşü.",
+      "kategori": "Bilim Kurgu",
+      "yonetmen": "Steven Spielberg",
+      "imgSrc": "/src/data/img/jurassic-park.jpg"
+    },
+    {
+      "isim": "The Dark Knight Rises",
+      "isimTurkce": "Kara Şövalye Yükseliyor",
+      "slogan": "Kahramanın yükselişi.",
+      "kategori": "Aksiyon",
+      "yonetmen": "Christopher Nolan",
+      "imgSrc": "/src/data/img/dark-knight-rises.jpg"
+    },
+    {
+      "isim": "The Usual Suspects",
+      "isimTurkce": "Sıradan Şüpheliler",
+      "slogan": "Olayın arkasındaki gerçek kim?",
+      "kategori": "Suç",
+      "yonetmen": "Bryan Singer",
+      "imgSrc": "/src/data/img/usual-suspects.jpg"
+    }
+  ]
+}

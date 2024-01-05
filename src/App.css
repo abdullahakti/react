@@ -1,0 +1,84 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  transition: all ease-in 3000ms;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  width: 960px;
+  margin: 45px auto; /* Navbar yüksekliği kadar boşluk bırak */
+}
+
+/* Film kartları */
+.film-kartlari {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  transition: all ease 750ms;
+}
+
+.film-karti {
+  width: 270px; /* Sabit genişlik */
+  border: 1px solid #2ecc71;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px 10px 0 0;
+}
+
+.film-karti h2 {
+    color: #2ecc71;
+    border-bottom: 1px solid #2ecc71;
+}
+
+.film-karti h3 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.film-karti p {
+    font-size: 14px;
+    line-height: 7px;
+}
+.poster {
+    width: 100%;
+    aspect-ratio: 1;
+}
+
+.film-listesi {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.film-listesi li {
+  margin-bottom: 5px;
+}
+
+.form-control {
+  display: block;
+  width: 30%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1.5rem; 
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #2ecc71;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
